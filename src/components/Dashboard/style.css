@@ -1,0 +1,25 @@
+.container {
+    overflow-y: auto;
+}
+.movieContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+    margin-left: 10%; 
+    margin-top: 15%;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0px;
+    background: white;
+    height: 10%;
+    width: 100%;
+}
+.dropdown{
+    width:200px
+}
