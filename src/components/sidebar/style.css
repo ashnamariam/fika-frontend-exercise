@@ -1,0 +1,15 @@
+.sidebarContainer {
+    background-color: #032550;
+    height: 100%;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    z-index: 10;
+}
+
+.title {
+    color: #ffff;
+    font-size: 25px;
+    margin-top: 25%;
+    font-family: system-ui;
+}

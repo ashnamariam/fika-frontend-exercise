@@ -4,9 +4,8 @@
   "description": "A simple and complete Webpack 4 React Boilerplate",
   "main": "index.js",
   "repository": "https://github.com/user/repository.git",
-  "author": "Your Name <your@email.com>",
+  "author": "Your Name",
   "license": "MIT",
-  "proxy": "https://simpledebit.herokuapp.com",
   "scripts": {
     "start": "webpack-dev-server --config=config/webpack.dev.js --hot",
     "start:reload": "webpack-dev-server --config=config/webpack.dev.js",
