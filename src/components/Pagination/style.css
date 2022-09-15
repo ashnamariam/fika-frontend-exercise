@@ -1,0 +1,21 @@
+.footer {
+    height: 10%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #032550;
+
+}
+.pagination {
+    width: 11%;
+    display: flex;
+    justify-content: space-around;
+    font-family: system-ui;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.button {
+    height: 40%;
+}
+
